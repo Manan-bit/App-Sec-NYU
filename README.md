@@ -3,7 +3,8 @@ Application Security Class
 
 ----------------------------------------------------------------------------------
 
-Assignment 1: SpellChecker data processing application
+
+Assignment 1: SpellChecker data processing application --- appsec_spellchecker.py
 
 
 Assumptions : Only Ascii characters are allowed.
